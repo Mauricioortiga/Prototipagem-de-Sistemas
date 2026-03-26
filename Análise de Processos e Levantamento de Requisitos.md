@@ -42,8 +42,10 @@ Originado na Toyota como sistema de melhoria de produção, foi adaptado para o 
 
 💎 **Princípios Fundamentais:** 
 
-1. Visualização do fluxo de trabalho: usar cartões em um quadro para mostrar as tarefas e colunas para mostrar em que fase cada tarefa está. 
-2. Limitação do trabalho em progresso (WIP): definir um limite de quantas tarefas podem estar em cada fase ao mesmo tempo. 
+1. Visualização do fluxo de trabalho: usar cartões em um quadro para mostrar as tarefas e colunas para mostrar em que fase cada tarefa está.
+    
+2. Limitação do trabalho em progresso (WIP): definir um limite de quantas tarefas podem estar em cada fase ao mesmo tempo.
+   
 3. Gerenciamento do fluxo: acompanhar o andamento das tarefas e melhorar o processo para evitar atrasos ou acúmulos. 
 
 📌 ***Lean***
