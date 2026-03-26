@@ -1,9 +1,12 @@
 ✒️**A iteração e o refinamento constante são fundamentais para chegar a soluções que realmente atendam às necessidades dos usuários.** 
 
 🎈 Conforme destaca **Beck** (2001), existem **quatro valores fundamentais**:
-1. Indivíduos e interações > processos e ferramentas 
-2. Software em funcionamento > documentação abrangente 
-3. Colaboração com o cliente > negociação de contratos 
+1. Indivíduos e interações > processos e ferramentas
+   
+2. Software em funcionamento > documentação abrangente
+   
+3. Colaboração com o cliente > negociação de contratos
+   
 4. Responder a mudanças > seguir um plano. 
 
 🎈Segundo Cohn (2011) os documentos são importantes, mas devem ser apenas tão detalhados quanto necessário. 
