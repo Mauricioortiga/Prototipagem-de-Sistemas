@@ -1,9 +1,9 @@
-🎈 Conforme destaca *Beck* (2001), existem **quatro valores fundamentais**: 
+🎈 Conforme destaca *Beck* (2001), existem **quatro valores fundamentais**:
 
-1.Indivíduos e interações > processos e ferramentas 
-2.Software em funcionamento > documentação abrangente 
-3.Colaboração com o cliente > negociação de contratos 
-4.Responder a mudanças > seguir um plano. 
+1. Indivíduos e interações > processos e ferramentas 
+2. Software em funcionamento > documentação abrangente 
+3. Colaboração com o cliente > negociação de contratos 
+4. Responder a mudanças > seguir um plano. 
 
 ✒️** A iteração e o refinamento constante são fundamentais para chegar a soluções que realmente atendam às necessidades dos usuários.** 
 
