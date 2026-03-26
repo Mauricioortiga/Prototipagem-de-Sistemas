@@ -12,7 +12,7 @@ Na prototipagem, isso significa criar documentação visual e funcional que comu
 
 
 ---
-**SCRUM FRAMEWORK** 
+🔨**SCRUM FRAMEWORK** 
 
 O scrum oferece uma estrutura valiosa para desenvolvimento iterativo. É um dos frameworks ágeis mais populares, fornecendo estrutura para equipes auto-organizáveis desenvolverem produtos complexos, se organiza em **Sprints**, geralmente com duração de duas a quatro semanas e durante cada Sprint, a equipe trabalha em um conjunto de itens de **lista priorizada de requisitos**(Product Backlog) em incrementos de valor, dentre eles: 
 
@@ -30,7 +30,7 @@ Sprint Retrospective: Uma reunião em que o time reflete sobre a sprint e define
 ---
 **Kanban e Lean**
 
-***Kanban***
+📌***Kanban***
 
 O **kanban** é um sistema visual que gerencia o trabalho à medida que ele flui por um processo. 
 Originado na Toyota como sistema de melhoria de produção, foi adaptado para o desenvolvimento de software como uma abordagem de melhoria contínua. 
@@ -41,7 +41,7 @@ Originado na Toyota como sistema de melhoria de produção, foi adaptado para o 
 2. Limitação do trabalho em progresso (WIP): definir um limite de quantas tarefas podem estar em cada fase ao mesmo tempo. 
 3. Gerenciamento do fluxo: acompanhar o andamento das tarefas e melhorar o processo para evitar atrasos ou acúmulos. 
 
-***Lean***
+📌***Lean***
 
 O **Lean** busca maximizar o valor para o cliente enquanto minimiza o desperdício. 
 
@@ -62,7 +62,7 @@ Kanban oferece uma forma visual e intuitiva de gerenciar o progresso do desenvol
 Lean orienta equipes a focarem primeiramente no desenvolvimento dos elementos mais valiosos do protótipo, evitando o desperdício de recursos. 
 
 ---
-**COMPARATIVO:**
+⌛**COMPARATIVO:**
 
 Scrum: Com sua estrutura mais definida e timeboxes específicos, pode ser mais adequado para equipes que precisam de maior direcionamento e para projetos com requisitos mais estáveis. 
 
