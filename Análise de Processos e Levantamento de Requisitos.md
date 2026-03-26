@@ -23,8 +23,11 @@ Developers: profissionais que executam o trabalho de desenvolvimento.
 📎 **Eventos de scrum:** 
 
 Sprint Planning: Uma reunião em que o time define o que será feito na próxima sprint e como o trabalho será realizado. 
+
 Daily Scrum: Uma reunião diária em que o time sincroniza o progresso e planeja o trabalho do dia. 
+
 Sprint Review: Uma reunião em que o time apresenta o que foi desenvolvido na sprint e coleta feedback. 
+
 Sprint Retrospective: Uma reunião em que o time reflete sobre a sprint e define melhorias para a próxima. 
 
 ---
