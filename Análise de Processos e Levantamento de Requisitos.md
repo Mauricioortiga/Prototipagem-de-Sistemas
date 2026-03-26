@@ -1,4 +1,3 @@
----
 🎈 Conforme destaca *Beck* (2001), existem **quatro valores fundamentais**: 
 
 1.Indivíduos e interações > processos e ferramentas 
