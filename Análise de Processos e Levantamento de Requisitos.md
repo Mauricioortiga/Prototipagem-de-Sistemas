@@ -40,7 +40,7 @@ Sprint Retrospective: Uma reunião em que o time reflete sobre a sprint e define
 O **kanban** é um sistema visual que gerencia o trabalho à medida que ele flui por um processo. 
 Originado na Toyota como sistema de melhoria de produção, foi adaptado para o desenvolvimento de software como uma abordagem de melhoria contínua. 
 
-💎 **Princípios Fundamentais** 
+💎 **Princípios Fundamentais:** 
 
 1. Visualização do fluxo de trabalho: usar cartões em um quadro para mostrar as tarefas e colunas para mostrar em que fase cada tarefa está. 
 2. Limitação do trabalho em progresso (WIP): definir um limite de quantas tarefas podem estar em cada fase ao mesmo tempo. 
