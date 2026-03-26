@@ -67,4 +67,4 @@ Lean orienta equipes a focarem primeiramente no desenvolvimento dos elementos ma
 Scrum: Com sua estrutura mais definida e timeboxes específicos, pode ser mais adequado para equipes que precisam de maior direcionamento e para projetos com requisitos mais estáveis. 
 
 Kanban: Com sua flexibilidade e foco no fluxo contínuo, pode ser mais adequado para equipes maduras e projetos com prioridades em constante mudança.
----
+
