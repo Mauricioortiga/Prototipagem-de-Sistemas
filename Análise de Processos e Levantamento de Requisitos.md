@@ -1,4 +1,4 @@
-✒️**A iteração e o refinamento constante são fundamentais para chegar a soluções que realmente atendam às necessidades dos usuários.** 
+✒️ **A iteração e o refinamento constante são fundamentais para chegar a soluções que realmente atendam às necessidades dos usuários.** 
 
 🎈 Conforme destaca **Beck** (2001), existem **quatro valores fundamentais**:
 1. Indivíduos e interações > processos e ferramentas
