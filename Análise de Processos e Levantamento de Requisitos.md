@@ -13,7 +13,6 @@
 Na prototipagem, isso significa criar documentação visual e funcional que comunique efetivamente a intenção do design a ser feito.
 
 
-
 ---
 🔨 **SCRUM FRAMEWORK** 
 
