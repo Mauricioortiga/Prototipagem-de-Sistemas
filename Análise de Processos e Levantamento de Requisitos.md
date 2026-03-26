@@ -1,15 +1,16 @@
-Conforme destaca Beck (2001), existem **quatro valores fundamentais**: 
-Indivíduos e interações > 
-processos e ferramentas 
-Software em funcionamento > documentação abrangente 
-Colaboração com o cliente > negociação de contratos 
-Responder a mudanças > seguir um plano. 
+🎈 Conforme destaca *Beck* (2001), existem **quatro valores fundamentais**: 
 
-** A iteração e o refinamento constante são fundamentais para chegar a soluções que realmente atendam às necessidades dos usuários.** 
+1.Indivíduos e interações > processos e ferramentas 
+2.Software em funcionamento > documentação abrangente 
+3.Colaboração com o cliente > negociação de contratos 
+4.Responder a mudanças > seguir um plano. 
 
-Segundo Cohn (2011) os documentos são importantes, mas devem ser apenas tão detalhados quanto necessário. 
-Na prototipagem, isso significa criar documentação visual e funcional (o próprio protótipo) que comunique efetivamente a intenção do design.
+✒️** A iteração e o refinamento constante são fundamentais para chegar a soluções que realmente atendam às necessidades dos usuários.** 
 
+🎈Segundo Cohn (2011) os documentos são importantes, mas devem ser apenas tão detalhados quanto necessário. 
+Na prototipagem, isso significa criar documentação visual e funcional que comunique efetivamente a intenção do design a ser feito.
+
+---
 **SCRUM FRAMEWORK** 
 
 O scrum oferece uma estrutura valiosa para desenvolvimento iterativo. É um dos frameworks ágeis mais populares, fornecendo estrutura para equipes auto-organizáveis desenvolverem produtos complexos, se organiza em **Sprints**, geralmente com duração de duas a quatro semanas e durante cada Sprint, a equipe trabalha em um conjunto de itens de **lista priorizada de requisitos**(Product Backlog) de requisitos em incrementos de valor, dentre eles: 
