@@ -1,70 +1,63 @@
-# Valores Fundamentais do Agile
+Conforme destaca Beck (2001), existem **quatro valores fundamentais**: 
+Indivíduos e interações > 
+processos e ferramentas 
+Software em funcionamento > documentação abrangente 
+Colaboração com o cliente > negociação de contratos 
+Responder a mudanças > seguir um plano. 
 
-Conforme Beck (2001), existem **quatro valores fundamentais**:
+** A iteração e o refinamento constante são fundamentais para chegar a soluções que realmente atendam às necessidades dos usuários.** 
 
-Indivíduos e interações > processos e ferramentas  
-Software em funcionamento > documentação abrangente  
-Colaboração com o cliente > negociação de contratos  
-Responder a mudanças > seguir um plano  
+Segundo Cohn (2011) os documentos são importantes, mas devem ser apenas tão detalhados quanto necessário. 
+Na prototipagem, isso significa criar documentação visual e funcional (o próprio protótipo) que comunique efetivamente a intenção do design.
 
-**A iteração e o refinamento constante são essenciais para criar soluções que realmente atendam às necessidades dos usuários.**
+**SCRUM FRAMEWORK** 
 
-Segundo Cohn (2011), os documentos devem ser apenas tão detalhados quanto necessário. Na prototipagem, isso significa criar **documentação visual e funcional** (o próprio protótipo) que **comunique claramente a intenção do design**.
+O scrum oferece uma estrutura valiosa para desenvolvimento iterativo. É um dos frameworks ágeis mais populares, fornecendo estrutura para equipes auto-organizáveis desenvolverem produtos complexos, se organiza em **Sprints**, geralmente com duração de duas a quatro semanas e durante cada Sprint, a equipe trabalha em um conjunto de itens de **lista priorizada de requisitos**(Product Backlog) de requisitos em incrementos de valor, dentre eles: 
 
-# Scrum Framework
+Product Owner: responsável por maximizar o valor do produto e gerenciar o Product Backlog. 
+Scrum Master: facilitador que assegura que o time siga as práticas Scrum. 
+Developers: profissionais que executam o trabalho de desenvolvimento. 
 
-O Scrum oferece uma estrutura valiosa para **desenvolvimento iterativo**. É um dos frameworks ágeis mais populares, permitindo que equipes **auto-organizáveis** 
-desenvolvam produtos complexos em **Sprints** de 2 a 4 semanas, trabalhando em itens do **Product Backlog** em incrementos de valor.
+**Eventos de scrum:** 
 
-**Papéis no Scrum:**
+Sprint Planning: Uma reunião em que o time define o que será feito na próxima sprint e como o trabalho será realizado. 
+Daily Scrum: Uma reunião diária em que o time sincroniza o progresso e planeja o trabalho do dia. 
+Sprint Review: Uma reunião em que o time apresenta o que foi desenvolvido na sprint e coleta feedback. 
+Sprint Retrospective: Uma reunião em que o time reflete sobre a sprint e define melhorias para a próxima. 
 
-**Product Owner**: maximiza o valor do produto e gerencia o Product Backlog.  
-**Scrum Master**: garante que o time siga as práticas Scrum.  
-**Developers**: realizam o trabalho de desenvolvimento.
+**Kanban e Lean**
 
-**Eventos do Scrum:**
+O *Kanban* é um sistema visual que gerencia o trabalho à medida que ele flui por um processo. 
+Originado na Toyota como sistema de melhoria de produção, foi adaptado para o desenvolvimento de software como uma abordagem de melhoria contínua. 
 
-**Sprint Planning**: define o que será feito na sprint e como.  
-**Daily Scrum**: reunião diária para sincronizar progresso e planejar o dia.  
-**Sprint Review**: apresenta o que foi desenvolvido e coleta feedback.  
-**Sprint Retrospective**: reflete sobre a sprint e define melhorias.
+**Princípios Fundamentais** 
 
+1. Visualização do fluxo de trabalho*: usar cartões em um quadro para mostrar as tarefas e colunas para mostrar em que fase cada tarefa está. 
+2. Limitação do trabalho em progresso (WIP)*: definir um limite de quantas tarefas podem estar em cada fase ao mesmo tempo. 
+3. Gerenciamento do fluxo*: acompanhar o andamento das tarefas e melhorar o processo para evitar atrasos ou acúmulos. 
 
-# Kanban e Lean
+*Lean* 
 
-# Kanban
-Sistema visual que gerencia o trabalho enquanto ele flui pelo processo.  
-**Princípios principais:**
+O *Lean* busca maximizar o valor para o cliente enquanto minimiza o desperdício. 
 
-1. **Visualização do fluxo de trabalho**: usar cartões em um quadro para mostrar tarefas e colunas para as fases.  
-2. **Limitação do trabalho em progresso (WIP)**: definir quantas tarefas podem estar em cada fase ao mesmo tempo.  
-3. **Gerenciamento do fluxo**: acompanhar e melhorar o andamento das tarefas para evitar atrasos ou acúmulos.
+**Princípios fundamentais:** 
 
-## Lean
-Filosofia focada em **maximizar valor e reduzir desperdício**.  
-**Princípios principais:**
-Eliminar atividades que não agregam valor (ex.: espera, retrabalho, documentação excessiva).  
+1. Focar na eliminação de atividades que não agregam valor.
+Ex: espera, retrabalho e documentação excessiva.
 
-Monitorar eficiência com métricas:  
+2. Métricas como lead time, cycle time e throughput são essenciais para monitorar a eficiência do processo e identificar oportunidades de melhoria.
+Lead Time: tempo total desde que uma tarefa é solicitada até ser concluída.
+Cycle Time: tempo que uma tarefa leva para ser feita, do início ao fim do trabalho ativo.
+Throughput: quantidade de tarefas concluídas em um período de tempo.
 
-**Lead Time**: tempo total desde a solicitação até a conclusão da tarefa.  
-**Cycle Time**: tempo que a tarefa leva para ser concluída.  
-**Throughput**: quantidade de tarefas concluídas em um período.
+**Em prototipagem de sistemas:**
 
-# Aplicação em Prototipagem de Sistemas
+Kanban oferece uma forma visual e intuitiva de gerenciar o progresso do desenvolvimento de protótipos. 
 
-**Kanban**: gerencia visualmente o progresso do desenvolvimento de protótipos.  
-**Lean**: prioriza os elementos mais valiosos do protótipo e evita desperdício de recursos.
+Lean orienta equipes a focarem primeiramente no desenvolvimento dos elementos mais valiosos do protótipo, evitando o desperdício de recursos. 
 
-# Comparativo
+**COMPARATIVO:**
 
-- **Scrum**: estrutura definida e timeboxes claros; ideal para equipes que precisam de direcionamento e projetos com requisitos mais estáveis.  
-- **Kanban**: flexível e focado no fluxo contínuo; ideal para equipes maduras e projetos com prioridades em constante mudança.
+Scrum: Com sua estrutura mais definida e timeboxes específicos, pode ser mais adequado para equipes que precisam de maior direcionamento e para projetos com requisitos mais estáveis. 
 
-
-
-
-
-
-
-
+Kanban: Com sua flexibilidade e foco no fluxo contínuo, pode ser mais adequado para equipes maduras e projetos com prioridades em constante mudança.
