@@ -9,7 +9,7 @@ Responder a mudanças > seguir um plano
 
 **A iteração e o refinamento constante são essenciais para criar soluções que realmente atendam às necessidades dos usuários.**
 
-Segundo Cohn (2011), os documentos devem ser apenas tão detalhados quanto necessário. Na prototipagem, isso significa criar **documentação visual e funcional** (o próprio protótipo) que comunique claramente a intenção do design.
+Segundo Cohn (2011), os documentos devem ser apenas tão detalhados quanto necessário. Na prototipagem, isso significa criar **documentação visual e funcional** (o próprio protótipo) que **comunique claramente a intenção do design**.
 
 # Scrum Framework
 
