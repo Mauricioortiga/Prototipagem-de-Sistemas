@@ -2,5 +2,4 @@
 
 👨‍🏫 **Professor:** Relyson Lima de Magalhães Ramos 
 
-📂 Repositório criado com o objetivo de guardar informações necessárias para o desenvolvimento de sistemas com base em metodologias ágeis e eficientes.
-
+📂 Repositório criado com o objetivo de guardar metodologias ágeis e eficientes para o desenvolvimento de sistemas.
