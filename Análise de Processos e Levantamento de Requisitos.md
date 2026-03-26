@@ -63,9 +63,9 @@ Throughput: quantidade de tarefas concluídas em um período de tempo.
 ---
 📜 **Em prototipagem de sistemas:**
 
-Kanban oferece uma forma visual e intuitiva de gerenciar o progresso do desenvolvimento de protótipos. 
+**Kanban** entrega uma forma visual e intuitiva de gerenciar o progresso do desenvolvimento de protótipos. 
 
-Lean orienta equipes a focarem primeiramente no desenvolvimento dos elementos mais valiosos do protótipo, evitando o desperdício de recursos. 
+**Lean** orienta equipes a focarem primeiramente no desenvolvimento dos elementos mais valiosos do protótipo, evitando o desperdício de recursos. 
 
 ---
 ⌛ **COMPARATIVO:**
