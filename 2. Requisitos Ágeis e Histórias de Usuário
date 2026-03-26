@@ -1,1 +1,15 @@
+No **desenvolvimento ágil**, os requisitos funcionam de forma diferente dos métodos tradicionais. Em vez de criar longos documentos detalhados no início do projeto, os requisitos são adicionados e ajustados 
+aos poucos, evoluindo conforme o projeto avança e o entendimento do problema fica mais claro.
+---
+**Histórias de Usuário(User Stories) e Critérios de Aceite:**
+As histórias de usuário são uma forma comum de registrar requisitos em projetos ágeis. Segundo Cohn (2011, p. 102), elas são **descrições curtas e simples de uma funcionalidade**, escritas do ponto de vista 
+de quem vai usar ou se beneficiar dela, geralmente um usuário ou cliente do sistema.
 
+Fazendo pela estrutura básica:
+Como [tipo de usuário], eu quero [objetivo] para que [benefício].
+Ou seja:
+💭 A estrutura básica de uma história de usuário explica **quem quer algo, o que quer e por quê**.  
+Exemplo:
+- **Como [tipo de usuário]** → indica quem vai usar ou se beneficiar da funcionalidade.  
+- **Eu quero [objetivo]** → descreve o que a pessoa deseja fazer ou obter.  
+- **Para que [benefício]** → explica a razão ou vantagem de ter essa funcionalidade.
