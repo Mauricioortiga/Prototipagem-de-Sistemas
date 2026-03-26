@@ -32,7 +32,7 @@ desenvolvam produtos complexos em **Sprints** de 2 a 4 semanas, trabalhando em i
 
 # Kanban e Lean
 
-## Kanban
+# Kanban
 Sistema visual que gerencia o trabalho enquanto ele flui pelo processo.  
 **Princípios principais:**
 
