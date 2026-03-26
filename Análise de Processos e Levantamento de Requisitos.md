@@ -60,9 +60,11 @@ Throughput: quantidade de tarefas concluídas em um período de tempo.
 Kanban oferece uma forma visual e intuitiva de gerenciar o progresso do desenvolvimento de protótipos. 
 
 Lean orienta equipes a focarem primeiramente no desenvolvimento dos elementos mais valiosos do protótipo, evitando o desperdício de recursos. 
+
 ---
 **COMPARATIVO:**
 
 Scrum: Com sua estrutura mais definida e timeboxes específicos, pode ser mais adequado para equipes que precisam de maior direcionamento e para projetos com requisitos mais estáveis. 
 
 Kanban: Com sua flexibilidade e foco no fluxo contínuo, pode ser mais adequado para equipes maduras e projetos com prioridades em constante mudança.
+---
