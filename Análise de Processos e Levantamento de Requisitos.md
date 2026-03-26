@@ -31,6 +31,7 @@ Sprint Retrospective: Uma reunião em que o time reflete sobre a sprint e define
 **Kanban e Lean**
 
 *Kanban*
+
 O *kanban* é um sistema visual que gerencia o trabalho à medida que ele flui por um processo. 
 Originado na Toyota como sistema de melhoria de produção, foi adaptado para o desenvolvimento de software como uma abordagem de melhoria contínua. 
 
