@@ -30,9 +30,9 @@ Sprint Retrospective: Uma reunião em que o time reflete sobre a sprint e define
 ---
 **Kanban e Lean**
 
-*Kanban*
+***Kanban***
 
-O *kanban* é um sistema visual que gerencia o trabalho à medida que ele flui por um processo. 
+O **kanban** é um sistema visual que gerencia o trabalho à medida que ele flui por um processo. 
 Originado na Toyota como sistema de melhoria de produção, foi adaptado para o desenvolvimento de software como uma abordagem de melhoria contínua. 
 
 **Princípios Fundamentais** 
@@ -41,9 +41,9 @@ Originado na Toyota como sistema de melhoria de produção, foi adaptado para o 
 2. Limitação do trabalho em progresso (WIP): definir um limite de quantas tarefas podem estar em cada fase ao mesmo tempo. 
 3. Gerenciamento do fluxo: acompanhar o andamento das tarefas e melhorar o processo para evitar atrasos ou acúmulos. 
 
-*Lean* 
+***Lean***
 
-O *Lean* busca maximizar o valor para o cliente enquanto minimiza o desperdício. 
+O **Lean** busca maximizar o valor para o cliente enquanto minimiza o desperdício. 
 
 **Princípios fundamentais:** 
 
