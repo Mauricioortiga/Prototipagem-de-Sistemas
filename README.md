@@ -1,7 +1,5 @@
 📌 **Matéria:** Prototipagem de Sistemas
 
-👨‍🏫 **Professor:** Relyson Lima de Magalhães Ramos 
-
 📂 Visto que a capacidade de criar protótipos rapidamente e validar conceitos com usuários reais tornou-se um diferencial competitivo,
 este repositório está sendo criado com o objetivo de reunir metodologias ágeis e eficientes para o desenvolvimento de sistemas, bem como os 
 principais métodos de análise de processos e técnicas de levantamento de requisitos que servem como base para a criação de protótipos eficazes.
