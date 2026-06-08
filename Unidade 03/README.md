@@ -4,9 +4,10 @@ representação clara e compartilhada de como o sistema deve se estruturar e com
 **Essa realidade prática nos leva a uma necessidade essencial: a modelagem estrutural e comportamental de sistemas.**
 
 A modelagem estrutural:
+
 **Nos ajuda a entender como o sistema é organizado:** 
 
-– Quais são seus componentes.
+- Quais são seus componentes.
 
 - Como se relacionam e como se integram.
 
@@ -23,7 +24,7 @@ A modelagem comportamental:
 **Essas perspectivas formam a base para o desenvolvimento mais consciente e alinhado com as necessidades reais dos projetos, permitindo 
 uma comunicação clara entre stakeholders técnicos e não técnicos, além de facilitarem a identificação precoce de problemas e redundâncias no design.**
 
-Objetivos
+**Objetivos:**
 
 - Compreender as perspectivas complementares das modelagens estrutural (organização) e comportamental (ação) para o sucesso de projetos de software;
 
