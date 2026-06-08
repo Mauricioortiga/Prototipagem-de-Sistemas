@@ -11,9 +11,11 @@ A modelagem estrutural:
 
 - Como se relacionam e como se integram.
 
+---
+
 A modelagem comportamental:
 
-**Nos permite visualizar o que o sistema faz:
+**Nos permite visualizar o que o sistema faz:**
 
 - Como os objetos interagem.
 
@@ -23,6 +25,8 @@ A modelagem comportamental:
 
 **Essas perspectivas formam a base para o desenvolvimento mais consciente e alinhado com as necessidades reais dos projetos, permitindo 
 uma comunicação clara entre stakeholders técnicos e não técnicos, além de facilitarem a identificação precoce de problemas e redundâncias no design.**
+
+---
 
 **Objetivos:**
 
