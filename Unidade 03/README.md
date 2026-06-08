@@ -3,6 +3,8 @@ representação clara e compartilhada de como o sistema deve se estruturar e com
 
 **Essa realidade prática nos leva a uma necessidade essencial: a modelagem estrutural e comportamental de sistemas.**
 
+---
+
 A modelagem estrutural:
 
 **Nos ajuda a entender como o sistema é organizado:** 
