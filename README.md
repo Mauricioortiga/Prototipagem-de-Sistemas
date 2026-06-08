@@ -1,6 +1,4 @@
-📌 **Matéria:** Prototipagem de Sistemas
-
-📂 Visto que a capacidade de criar protótipos rapidamente e validar conceitos com usuários reais tornou-se um diferencial competitivo,
+Visto que a capacidade de criar protótipos rapidamente e validar conceitos com usuários reais tornou-se um diferencial competitivo,
 este repositório está sendo criado com o objetivo de reunir metodologias ágeis e eficientes para o desenvolvimento de sistemas, bem como os 
 principais métodos de análise de processos e técnicas de levantamento de requisitos que servem como base para a criação de protótipos eficazes.
 Assim, será uma base sólida para identificar as necessidades dos stakeholders e traduzi-las em requisitos claros, que nortearão a criação de protótipos funcionais.
