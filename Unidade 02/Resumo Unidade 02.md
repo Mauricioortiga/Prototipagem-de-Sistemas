@@ -1,4 +1,4 @@
-1.A documentação eficaz de requisitos serve como um contrato entre desenvolvedores e clientes, estabelecendo o que será entregue e como será avaliado, reduzindo ambiguidades e facilitando a comunicação.
+1. A documentação eficaz de requisitos serve como um contrato entre desenvolvedores e clientes, estabelecendo o que será entregue e como será avaliado, reduzindo ambiguidades e facilitando a comunicação.
 
 2. Requisitos não funcionais definem "como" o sistema deve ser, estabelecendo restrições e qualidades como desempenho, segurança e usabilidade.
 
